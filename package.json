@@ -1,13 +1,7 @@
 {
-  "name": "react-table",
+  "name": "@twigeducation/react-table",
   "version": "7.0.0-alpha.12",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
-  "license": "MIT",
-  "homepage": "https://github.com/twigworld/react-table#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/twigworld/react-table.git"
-  },
   "keywords": [
     "react",
     "table",
