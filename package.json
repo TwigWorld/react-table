@@ -2,6 +2,7 @@
   "name": "@twigeducation/react-table",
   "version": "7.0.0-alpha.12",
   "description": "A fast, lightweight, opinionated table and datagrid built on React",
+  "repository": "https://github.com/TwigWorld/react-table",
   "keywords": [
     "react",
     "table",
