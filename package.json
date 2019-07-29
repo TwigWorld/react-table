@@ -19,6 +19,7 @@
     "test:ci": "jest",
     "build": "rollup -c",
     "start": "rollup -c -w",
+    "prepublishOnly": "yarn build",
     "prepare": "yarn build",
     "release": "yarn publish",
     "releaseNext": "yarn publish --tag next"
