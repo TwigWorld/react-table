@@ -21,6 +21,10 @@ Hooks for building **lightweight, fast and extendable datagrids** for React
 <br />
 <br />
 
+## Archive Status
+
+This is a fork of [react-table](https://www.npmjs.com/package/react-table) which was never used so this repo has been archived.
+
 ## Features
 
 - Lightweight
